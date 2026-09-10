@@ -2,7 +2,7 @@
 
   <!-- Dynamic Typing Header Banner -->
   <a href="https://github.com/shivanshSWE-cmd">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&pause=1000&color=6366F1&center=true&vcenter=true&width=600&lines=Hi+%F0%9F%90%8B%2C+I'm+Shivansh+Mishra!;Software+Engineer+%26+AI+Researcher;SIH+'26+Finalist+%7C+Team+Neural+Defenders;Building+Cybersecurity+%26+OSINT+Tools" alt="Typing Header SVG" />
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&pause=1000&color=6366F1&center=true&vcenter=true&width=600&lines=Hi+%F0%9F%90%8B%2C+I'm+Shivansh+Mishra!;Software+Engineer+%26+AI+Researcher;Hacketon+Finalist+%7C+Team+Neural+Defenders;Building+Cybersecurity+%26+OSINT+Tools" alt="Typing Header SVG" />
   </a>
 
   <h3>🛡️ AI Security Researcher | Full-Stack & Systems Developer | OSINT Enthusiast</h3>
@@ -23,11 +23,11 @@
 ### 👨‍💻 About Me
 
 ```
-  ____  _     _                          _     __  __ _za_                   
- / ___|| |__ (_)v____ _ _ __  ___| |__  |  \/  (_)_| |__  _ __ __ _ 
- \___ \| '_ \| | \ \ / _` | '_ \/ __| '_ \ | |\/| | | / _ \| '__/ _` |
-  ___) | | | | | |\ V / (_| | | | \__ \ | | || |  | | |  __/ | | (_| |
- |____/|_| |_|_|_| \_/ \__,_|_| |_|___/_| |_||_|  |_|_|\___|_|  \__,_|
+  ____  _     _                      _       __  __ _     _               
+ / ___|| |__ (_)_   __ __ _ _ __ ___| |__   |  \/  (_)___| |__  _ __ __ _ 
+ \___ \| '_ \| \ \ / / _` | '_ \/ __| '_ \  | |\/| | / __| '_ \| '__/ _` |
+  ___) | | | | |\ V / (_| | | | \__ \ | | | | |  | | \__ \ | | | | | (_| |
+ |____/|_| |_|_| \_/ \__,_|_| |_|___/_| |_| |_|  |_|_|___/_| |_|_|  \__,_|
 ```
 
 - 🎓 **Education**: B.Tech Student in Computer Science & Engineering.

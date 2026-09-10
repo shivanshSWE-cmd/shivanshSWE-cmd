@@ -96,20 +96,13 @@
 
 <div align="center">
 
-  <table border="0">
-    <tr>
-      <td>
-        <img height="180em" src="https://github-readme-stats.vercel.app/api?username=shivanshSWE-cmd&show_icons=true&theme=dark&count_private=true&hide_border=true&title_color=6366F1&icon_color=6366F1&text_color=94A3B8&bg_color=0F172A" alt="Shivansh's GitHub Stats" />
-      </td>
-      <td>
-        <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=shivanshSWE-cmd&layout=compact&theme=dark&hide_border=true&title_color=6366F1&text_color=94A3B8&bg_color=0F172A&hide=html,css" alt="Top Languages" />
-      </td>
-    </tr>
-  </table>
+  <img height="180" src="https://github-readme-stats-eight-theta.vercel.app/api?username=shivanshSWE-cmd&show_icons=true&theme=dark&count_private=true&hide_border=true&title_color=6366F1&icon_color=6366F1&text_color=94A3B8&bg_color=0F172A" alt="Shivansh's GitHub Stats" />
+  &nbsp;&nbsp;
+  <img height="180" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=shivanshSWE-cmd&layout=compact&theme=dark&hide_border=true&title_color=6366F1&text_color=94A3B8&bg_color=0F172A&hide=html,css" alt="Top Languages" />
 
-  <br/>
+  <br/><br/>
 
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=shivanshSWE-cmd&theme=dark&hide_border=true&background=0F172A&ring=6366F1&fire=FF4500&currStreakLabel=6366F1" alt="GitHub Streak Stats" />
+  <img src="https://streak-stats.demolab.com?user=shivanshSWE-cmd&theme=dark&hide_border=true&background=0F172A&ring=6366F1&fire=FF4500&currStreakLabel=6366F1" alt="GitHub Streak Stats" />
 
 </div>
 

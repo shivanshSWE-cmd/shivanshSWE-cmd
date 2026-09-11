@@ -13,7 +13,7 @@
     </a>
     <img src="https://img.shields.io/badge/Location-India-007ACC?style=flat-square&logo=googlemaps&logoColor=white" alt="Location"/>
     <img src="https://img.shields.io/badge/Status-B.Tech--CSE-10B981?style=flat-square&logo=scholar&logoColor=white" alt="Status"/>
-    <img src="https://img.shields.io/badge/Hackathon-Finalist-FF4500?style=flat-square&logo=hackaday&logoColor=white" alt="SIH"/>
+    <img src="https://img.shields.io/badge/SIH--2026-Finalist-138808?labelColor=FF6700&style=flat-square&logo=trophy&logoColor=white&v=3" alt="SIH 2026"/>
   </p>
 
 </div>
@@ -123,16 +123,16 @@
 <div align="center">
 
   <a href="https://github.com/shivanshSWE-cmd">
-    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
+    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white&v=3" alt="GitHub"/>
   </a>
   <a href="mailto:shivanshmishra222006+github@gmail.com">
-    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
+    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white&v=3" alt="Email"/>
   </a>
   <a href="https://www.linkedin.com/in/shivansh-mishra-5220063a5">
-    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white&v=3" alt="LinkedIn"/>
   </a>
   <a href="https://github.com/shivanshSWE-cmd/sentinel-shield-ai">
-    <img src="https://img.shields.io/badge/SIH--2026-Neural%20Defenders-FF4500?style=for-the-badge&logo=trophy&logoColor=white" alt="SIH 2026"/>
+    <img src="https://img.shields.io/badge/SIH--2026-Neural%20Defenders-138808?labelColor=FF6700&style=for-the-badge&logo=trophy&logoColor=white&v=3" alt="SIH 2026"/>
   </a>
 
 </div>

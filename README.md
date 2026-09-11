@@ -128,11 +128,11 @@
   <a href="mailto:shivanshmishra222006+github@gmail.com">
     <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
   </a>
-  <a href="https://github.com/shivanshSWE-cmd/sentinel-shield-ai">
-    <img src="https://img.shields.io/badge/SIH--2026-Neural%20Defenders-FF4500?style=for-the-badge&logo=sih&logoColor=white" alt="Team"/>
+  <a href="https://www.linkedin.com/in/shivansh-mishra-5220063a5">
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
   </a>
-  <a href="https://wwww.linkedin.com/in/shivansh-mishra-5220063a5">
-    <img src="https://img.shields.io/badge/Linkedin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="Linkedin"/>
+  <a href="https://github.com/shivanshSWE-cmd/sentinel-shield-ai">
+    <img src="https://img.shields.io/badge/SIH--2026-Neural%20Defenders-FF4500?style=for-the-badge&logo=trophy&logoColor=white" alt="SIH 2026"/>
   </a>
 
 </div>

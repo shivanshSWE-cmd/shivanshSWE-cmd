@@ -2,7 +2,7 @@
 
   <!-- Dynamic Typing Header Banner -->
   <a href="https://github.com/shivanshSWE-cmd">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&pause=1000&color=6366F1&center=true&vcenter=true&width=600&lines=Hi+%F0%9F%90%8B%2C+I'm+Shivansh+Mishra!;Software+Engineer+%26+AI+Researcher;Hacketon+Finalist+%7C+Team+Neural+Defenders;Building+Cybersecurity+%26+OSINT+Tools" alt="Typing Header SVG" />
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&pause=1000&color=6366F1&center=true&vcenter=true&width=600&lines=Hi+%F0%9F%90%8B%2C+I'm+Shivansh+Mishra!;Software+Engineer+%26+AI+Researcher;Hackathon+Finalist+%7C+Team+Neural+Defenders;Building+Cybersecurity+%26+OSINT+Tools" alt="Typing Header SVG" />
   </a>
 
   <h3>🛡️ AI Security Researcher | Full-Stack & Systems Developer | OSINT Enthusiast</h3>
@@ -13,7 +13,7 @@
     </a>
     <img src="https://img.shields.io/badge/Location-India-007ACC?style=flat-square&logo=googlemaps&logoColor=white" alt="Location"/>
     <img src="https://img.shields.io/badge/Status-B.Tech--CSE-10B981?style=flat-square&logo=scholar&logoColor=white" alt="Status"/>
-    <img src="https://img.shields.io/badge/SIH--2026-Finalist-FF4500?style=flat-square&logo=hackaday&logoColor=white" alt="SIH 2026"/>
+    <img src="https://img.shields.io/badge/Hackathon-Finalist-FF4500?style=flat-square&logo=hackaday&logoColor=white" alt="SIH"/>
   </p>
 
 </div>
@@ -31,7 +31,7 @@
 ```
 
 - 🎓 **Education**: B.Tech Student in Computer Science & Engineering.
-- 🏆 **Hackathon Achievements**: **Smart India Hackathon (SIH 2026)** Finalist with **Team Neural Defenders** — developing *SentinelShield AI* for real-time voice deepfake & digital arrest defense.
+- 🏆 **Hackathon Achievements**: **Smart India Hackathon (SIH 2026)** Winner with **Team Neural Defenders** — developing *SentinelShield AI* for real-time voice deepfake & digital arrest defense.
 - 🛡️ **Core Focus**: AI Security, Voice Deepfake Detection, Open Source Intelligence (OSINT), & Threat Intelligence.
 - ⚡ **Engineering Philosophy**: Building robust, privacy-first, high-performance software that solves critical real-world problems.
 - 📡 **Offline Tech**: Innovating in decentralized communication (Bluetooth P2P messaging apps without active internet).
@@ -125,11 +125,14 @@
   <a href="https://github.com/shivanshSWE-cmd">
     <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
   </a>
-  <a href="mailto:shivanshSWE@gmail.com">
+  <a href="mailto:shivanshmishra222006+github@gmail.com">
     <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
   </a>
   <a href="https://github.com/shivanshSWE-cmd/sentinel-shield-ai">
-    <img src="https://img.shields.io/badge/SIH--2026-Neural%20Defenders-FF4500?style=for-the-badge&logo=google&logoColor=white" alt="Team"/>
+    <img src="https://img.shields.io/badge/SIH--2026-Neural%20Defenders-FF4500?style=for-the-badge&logo=sih&logoColor=white" alt="Team"/>
+  </a>
+  <a href="https://wwww.linkedin.com/in/shivansh-mishra-5220063a5">
+    <img src="https://img.shields.io/badge/Linkedin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="Linkedin"/>
   </a>
 
 </div>

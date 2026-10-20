@@ -9,7 +9,7 @@
 
   <p>
     <a href="https://github.com/shivanshSWE-cmd">
-      <img src="https://views.igorkowalczyk.dev/api/badge/shivanshSWE-cmd?style=flat&color=6366F1&label=Profile+Views" alt="Profile Views"/>
+      <img src="https://komarev.com/ghpvc/?username=shivanshSWE-cmd&color=6366F1&style=flat-square&label=Profile+Views&base=35" alt="Profile Views"/>
     </a>
     <img src="https://img.shields.io/badge/Location-India-007ACC?style=flat-square&logo=googlemaps&logoColor=white" alt="Location"/>
     <img src="https://img.shields.io/badge/Status-B.Tech--CSE-10B981?style=flat-square&logo=scholar&logoColor=white" alt="Status"/>
